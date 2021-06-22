@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Web Design**
+- 🔭 I’m currently working on **PHP**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP Laravel**
 
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS**
 
