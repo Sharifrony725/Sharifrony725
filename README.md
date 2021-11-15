@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **PHP**
+- 🔭 I’m currently working on **PHP Laravel**
 
-- 🌱 I’m currently learning **PHP Laravel**
+- 🌱 I’m currently learning **Laravel API, PWA , DBMS ,**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,PHP**
+- 💬 Ask me about **PHP,Laravel,HTML,CSS,BOOTSTRAP**
 
 - 📫 How to reach me **sharifrony725@gmail.com**
 
