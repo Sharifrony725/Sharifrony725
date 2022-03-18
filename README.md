@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.facebook.com/sharifrony725/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/rs.rs.796569/" height="30" width="40" /></a>
 <a href="https://instagram.com/sharifrony725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharifrony725" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc2d6q4oahhltjbjfoupywzw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc2d6q4oahhltjbjfoupywzw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2d6Q4OAHhltJbJFOuPyWzw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc2d6q4oahhltjbjfoupywzw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
