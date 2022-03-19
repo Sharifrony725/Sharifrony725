@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Shariful Islam</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+### Hi there 👋, I'm Shariful Islam
+#### A passionate web developer from Bangladesh
+![A passionate web developer from Bangladesh](https://media-exp1.licdn.com/dms/image/C5616AQEQl-TJWlD2Kw/profile-displaybackgroundimage-shrink_200_800/0/1647351911659?e=1652918400&v=beta&t=CIpcPwA5kwMGi0pSne811UBODVG2sQ8QWJ_IHA2XFlU)
 
-- 🔭 I’m currently working on **PHP Laravel**
+I am a web developer working with a growing software development company in Bangladesh. I have skills in PHP, Laravel, API development.I also process basic knowledge and study on PWA,RDBMS . My Vision is to gain 
+confidence and fame using my potential in the field of web technologies and express my innovative 
+creative skills for myself and my company.
 
-- 🌱 I’m currently learning **Laravel API, PWA , DBMS ,**
+Skills: PHP/ LARAVEL / MYSQL / HTML / CSS/BOOTSTRAP/JS
 
-- 💬 Ask me about **PHP,Laravel,HTML,CSS,BOOTSTRAP**
+- 🔭 I’m currently working on PHP Laravel 
+- 🌱 I’m currently learning  API Developement, PWA , RDBMS,Data Structures and Algorithms 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about PHP,Laravel,HTML,CSS,BOOTSTRAP 
+- 📫 How to reach me: sharifrony725@gmail.com 
+- ⚡ Fun fact: I THINK I AM FUNNY 
 
-- 📫 How to reach me **sharifrony725@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM FUNNY**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sharifrony725)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharifrony725/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sharifrony725)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sharifrony725/)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/sharifrony725/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/rs.rs.796569/" height="30" width="40" /></a>
-<a href="https://instagram.com/sharifrony725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sharifrony725" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC2d6Q4OAHhltJbJFOuPyWzw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc2d6q4oahhltjbjfoupywzw" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifrony725)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharifrony725&show_icons=true&count_private=true)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifrony725&show_icons=true&locale=en&layout=compact" alt="sharifrony725" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sharifrony725)  
+
+![Profile views](https://gpvc.arturio.dev/Sharifrony725)  
