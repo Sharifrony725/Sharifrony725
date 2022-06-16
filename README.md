@@ -2,13 +2,13 @@
 #### Web Developer||Laravel Developer||PHP||MySQL
 ![A passionate web developer from Bangladesh](https://media-exp1.licdn.com/dms/image/C5616AQGzvisZJSrs0Q/profile-displaybackgroundimage-shrink_350_1400/0/1647880083241?e=1653523200&v=beta&t=AGJX9As72pmYJdyx6Jld4xfMrOv1oRL8KUoufalj6o0)
 
-I am a web developer working with a growing software development company in Bangladesh. I have skills in PHP, Laravel, API development.I also process basic knowledge and study on PWA,RDBMS . My Vision is to gain 
+I am a web developer working with a growing software development company in Bangladesh. I have skills in PHP, Laravel,CodeIgniter ,Javascript  API development. I also process basic knowledge and study on PWA,RDBMS . My Vision is to gain 
 confidence and fame using my potential in the field of web technologies and express my innovative 
 creative skills for myself and my company.
 
 Skills: PHP/ LARAVEL / MYSQL / HTML / CSS/BOOTSTRAP/JS
 
-- 🔭 I’m currently working on PHP Laravel 
+- 🔭 I’m currently working on PHP Laravel CodeIgniter
 - 🌱 I’m currently learning  API Developement, PWA , RDBMS,Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about PHP,Laravel,HTML,CSS,BOOTSTRAP 
