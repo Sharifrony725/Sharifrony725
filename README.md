@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shariful Islam
 #### Web Developer||Laravel Developer||PHP||MySQL
-![A passionate web developer from Bangladesh](https://media-exp1.licdn.com/dms/image/C5616AQGzvisZJSrs0Q/profile-displaybackgroundimage-shrink_350_1400/0/1647880083241?e=1653523200&v=beta&t=AGJX9As72pmYJdyx6Jld4xfMrOv1oRL8KUoufalj6o0)
+![A passionate web developer from Bangladesh]
 
 I am a web developer working with a growing software development company in Bangladesh. I have skills in PHP, Laravel,CodeIgniter ,Javascript  API development. I also process basic knowledge and study on PWA,RDBMS . My Vision is to gain 
 confidence and fame using my potential in the field of web technologies and express my innovative 
