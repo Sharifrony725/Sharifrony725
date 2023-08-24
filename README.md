@@ -19,7 +19,8 @@ Skills: PHP/ LARAVEL / MYSQL / HTML / CSS/BOOTSTRAP/JS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sharifrony725)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sharifrony725/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sharifrony725)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sharifrony725/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifrony725)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://app.daily.dev/undefined](https://app.daily.dev/sharifrony425"><img src="https://api.daily.dev/devcards/bc823498cf6f4c66a7981a57a7202e50.png?r=ac0" width="400" alt="undefined's Dev Card"/></a>
+[<a href="https://app.daily.dev/undefined](https://app.daily.dev/sharifrony425"><img src="https://api.daily.dev/devcards/bc823498cf6f4c66a7981a57a7202e50.png?r=ac0" width="400" alt="undefined's Dev Card"/></a>](https://api.daily.dev/devcards/bc823498cf6f4c66a7981a57a7202e50.png?r=3uw)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharifrony725&show_icons=true&count_private=true)  
 
