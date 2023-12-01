@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shariful Islam
 #### Web Developer||PHP|| LARAVEL || JavaScript || React || MySQL || HTML || CSS || TailWindCss || Git.
 <b>A passionate web developer from Bangladesh</b>
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFylcFQd3Iixg/profile-displaybackgroundimage-shrink_200_800/0/1659000696347?e=1664409600&v=beta&t=qR6HpcA8F-SbepRuFwE1BoksUFNfcpOmCG-ed50krmo"><br>
+<img src="[https://media-exp1.licdn.com/dms/image/C5616AQFylcFQd3Iixg/profile-displaybackgroundimage-shrink_200_800/0/1659000696347?e=1664409600&v=beta&t=qR6HpcA8F-SbepRuFwE1BoksUFNfcpOmCG-ed50krmo](https://media.licdn.com/dms/image/D5616AQG5SY4EnsbEcA/profile-displaybackgroundimage-shrink_350_1400/0/1692607679973?e=1706745600&v=beta&t=G4ajxEDrLCxafKa0sPoBpL24I5C_GD6f2hvWXjbWo68)"><br>
 I am a web developer working with a growing software development company in Bangladesh. I have skills in PHP, Laravel,CodeIgniter ,Javascript  API development. I also process basic knowledge and study on PWA,RDBMS . My Vision is to gain 
 confidence and fame using my potential in the field of web technologies and express my innovative 
 creative skills for myself and my company.
