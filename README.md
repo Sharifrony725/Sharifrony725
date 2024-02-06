@@ -8,7 +8,7 @@ creative skills for myself and my company.
 
 Skills: PHP/ LARAVEL / MYSQL / HTML / CSS/ TailWind/ JS/ React
 
-- 🔭 I’m currently working on PHP Laravel CodeIgniter
+- 🔭 I’m currently working on PHP Laravel
 - 🌱 I’m currently learning  API Developement, PWA , RDBMS,Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about PHP,Laravel,HTML,CSS,BOOTSTRAP 
